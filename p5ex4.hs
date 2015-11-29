@@ -16,3 +16,5 @@ a = False : [True | _ <- [1..]]
 
 
 -- Shouldn't one of the implementations be considered as incorrect?
+
+-- http://screencast.com/t/24P3zpUrwV
